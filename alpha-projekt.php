@@ -17,3 +17,5 @@ $myUpdateChecker = new $className(
 	__FILE__,
 	'master'
 );
+
+// omment
