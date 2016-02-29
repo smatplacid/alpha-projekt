@@ -1,3 +1,4 @@
 # alpha-projekt
 Standardfunktionen für Theme- &amp; WordPress-Entwicklung
-test
+
+Experimentelles erstes GIT Projekt
