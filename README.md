@@ -1,3 +1,0 @@
-# alpha-projekt
-
-First project.
